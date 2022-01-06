@@ -443,6 +443,7 @@
     <Content Include="fonts\FontAwesome.otf" />
     <Content Include="img\.DS_Store" />
     <Content Include="img\elements\_DS_Store" />
+    <Content Include="Documents\Don Richardson Resume IT.docx" />
     <None Include="packages.config" />
     <Content Include="scss\_blog.scss" />
     <Content Include="scss\_button.scss" />
