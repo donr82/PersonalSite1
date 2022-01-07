@@ -67,7 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Contact_Us.html" />
+    <Content Include="ContactUs.html" />
     <Content Include="css\bootstrap.css" />
     <Content Include="css\breadcrumb.css" />
     <Content Include="css\font-awesome.min.css" />
