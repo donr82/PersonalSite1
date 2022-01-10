@@ -81,6 +81,7 @@
     <Content Include="css\_price.css" />
     <Content Include="css\_service.css" />
     <Content Include="css\_testimonials.css" />
+    <Content Include="Documents\Don Richardson Resume IT.htm" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="img\banner\banner-2.jpg" />
     <Content Include="img\banner\banner.jpg" />
