@@ -81,7 +81,7 @@
     <Content Include="css\_price.css" />
     <Content Include="css\_service.css" />
     <Content Include="css\_testimonials.css" />
-    <Content Include="Documents\Don Richardson Resume IT.htm" />
+    <Content Include="Documents\Don Richardson Resume IT.html" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="img\banner\banner-2.jpg" />
     <Content Include="img\banner\banner.jpg" />
@@ -168,8 +168,14 @@
     <Content Include="img\instagram\ins-5.jpg" />
     <Content Include="img\instagram\ins-6.jpg" />
     <Content Include="img\logo.png" />
-    <Content Include="img\personal-2.jpg" />
     <Content Include="img\personal.jpg" />
+    <Content Include="img\TeamProfilePic\Abbey-Pic.jpg" />
+    <Content Include="img\TeamProfilePic\Blank-User.jpg" />
+    <Content Include="img\TeamProfilePic\Eric-Pic.jpg" />
+    <Content Include="img\TeamProfilePic\Janet-Pic.jpg" />
+    <Content Include="img\TeamProfilePic\Josh-pic.jpg" />
+    <Content Include="img\TeamProfilePic\Patrick-Pic.jpg" />
+    <Content Include="img\TeamProfilePic\Scott-Pic.jpg" />
     <Content Include="Index.html" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\contact.js" />
