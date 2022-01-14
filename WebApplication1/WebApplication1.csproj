@@ -169,10 +169,16 @@
     <Content Include="img\instagram\ins-6.jpg" />
     <Content Include="img\logo.png" />
     <Content Include="img\personal.jpg" />
+    <Content Include="img\PortfolioGallery\DungeonApp-Pic.jpg" />
+    <Content Include="img\PortfolioGallery\Fed1-Pic.jpg" />
+    <Content Include="img\PortfolioGallery\StoreFront-Pic.jpg" />
     <Content Include="img\TeamProfilePic\Abbey-Pic.jpg" />
+    <Content Include="img\TeamProfilePic\Andrew.jpg" />
     <Content Include="img\TeamProfilePic\Blank-User.jpg" />
     <Content Include="img\TeamProfilePic\Eric-Pic.jpg" />
     <Content Include="img\TeamProfilePic\Janet-Pic.jpg" />
+    <Content Include="img\TeamProfilePic\Jason.jpg" />
+    <Content Include="img\TeamProfilePic\joe.jpg" />
     <Content Include="img\TeamProfilePic\Josh-pic.jpg" />
     <Content Include="img\TeamProfilePic\Patrick-Pic.jpg" />
     <Content Include="img\TeamProfilePic\Scott-Pic.jpg" />
